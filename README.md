@@ -1,4 +1,4 @@
-# World-History-I-Religion-Project
+# World History I Religion Project
 This is a game meant to teach about the Buddhist and Islam religions, showing their similarities and differences. It is written in [p5.js](https://p5js.org/).
 
 # How to Play
